@@ -14,12 +14,4 @@ p {
     padding: 12px 35px;
     width: 40%;
     letter-spacing: 2px;
-    font-size: 2em;
-    text-align: center;
-}
-p:hover {
-    background-color: #222;
-    box-shadow: 5px 5px 5px 3px rgb(0, 0, 0, 2);
-    border-radius: 5px;
-    color: orangered;
 }
